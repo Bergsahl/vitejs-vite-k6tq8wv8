@@ -4,6 +4,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/DITT-REPOSITORY/',
+  base: '/vitejs-vite-k6tq8wv8/',
   plugins: [react()],
 })
